@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+lib/auc.jar
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# Profiler
+/profile.pr
+
+# DotEnv configuration
+.env
+
+# Project settings
+.idea
+.project
+.pydevproject
+.ropeproject
+.spyderproject
+.spyproject
+
+# Data
+*.bz2
+/models/
+/results/
+
+# Temporary files
+/queue.p
+
+# Markdown
+*.md.html
