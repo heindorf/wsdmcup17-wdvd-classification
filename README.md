@@ -15,7 +15,7 @@ This source code forms the basis for the overview paper of the [vandalism detect
                Gregor Engels and
                Benno Stein},
   title     = {Overview of the Wikidata Vandalism Detection Task at {WSDM} Cup 2017},
-  booktitle = {{{WSDM Cup 2017 Notebook Papers}},
+  booktitle = {{WSDM Cup 2017 Notebook Papers}},
   url       = {https://arxiv.org/abs/1712.05956},
   year      = {2017}
 }
@@ -33,7 +33,7 @@ The code is based on the [Wikidata Vandalism Detector 2016](https://doi.acm.org/
   booktitle = {{CIKM}},
   pages     = {327--336},
   publisher = {{ACM}},
-  url       = {https://doi.acm.org/10.1145/2983323.2983740}
+  url       = {https://doi.acm.org/10.1145/2983323.2983740},
   year      = {2016}
 }
 ```
